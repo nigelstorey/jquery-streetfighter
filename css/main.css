@@ -51,3 +51,8 @@ body {
 .ryu-cool{
   background-image: url('../images/ryu-cool.gif');
 }
+
+h1 {
+	
+    color: #00ff00;
+}
